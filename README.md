@@ -11,6 +11,7 @@ Architectural Complexity
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/brucewayneoptimusprime/Algorithms_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/brucewayneoptimusprime/Algorithms_Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -20,4 +21,9 @@ Architectural Complexity
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/brucewayneoptimusprime/Algorithms_Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/brucewayneoptimusprime/Algorithms_Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/brucewayneoptimusprime/Algorithms_Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
